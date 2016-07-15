@@ -1,0 +1,10 @@
+IP: 74.105.81.2 DNS: 2.81.105.74.in-addr.arpa domain name pointer Wireless_Broadband_Router.
+IP: 54.252.96.247 DNS: 247.96.252.54.in-addr.arpa domain name pointer ec2-54-252-96-247.ap-southeast-2.compute.amazonaws.com.
+IP: 54.243.132.119 DNS: 119.132.243.54.in-addr.arpa domain name pointer ec2-54-243-132-119.compute-1.amazonaws.com.
+IP: 168.63.107.221 DNS: Host 221.107.63.168.in-addr.arpa. not found: 3(NXDOMAIN)
+IP: 54.252.96.247 DNS: 247.96.252.54.in-addr.arpa domain name pointer ec2-54-252-96-247.ap-southeast-2.compute.amazonaws.com.
+IP: 54.243.132.119 DNS: 119.132.243.54.in-addr.arpa domain name pointer ec2-54-243-132-119.compute-1.amazonaws.com.
+IP: 168.63.107.221 DNS: Host 221.107.63.168.in-addr.arpa. not found: 3(NXDOMAIN)
+IP: 54.252.96.247 DNS: 247.96.252.54.in-addr.arpa domain name pointer ec2-54-252-96-247.ap-southeast-2.compute.amazonaws.com.
+IP: 70.214.99.101 DNS: 101.99.214.70.in-addr.arpa domain name pointer 101.sub-70-214-99.myvzw.com.
+IP: 54.243.132.119 DNS: 119.132.243.54.in-addr.arpa domain name pointer ec2-54-243-132-119.compute-1.amazonaws.com.
